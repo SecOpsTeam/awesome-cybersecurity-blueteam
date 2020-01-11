@@ -1,3 +1,12 @@
+### IT Security Telegram Channel
+
+1. [Telegram Link ](https://t.me/SecOpsChannel) - Lot other from the world of Security.
+
+### IT Security Mobile App to keep you updated..
+
+2. [AttackIO App ](https://attackio.app/) - The world of information security is now in your palm !!.
+
+
 # Awesome Cybersecurity Blue Team [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 > A collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
